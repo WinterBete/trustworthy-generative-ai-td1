@@ -11,13 +11,13 @@ references on the distributed read-only database.
 
 Seven members:
 
-- WinterBete — full name and contribution to complete;
+- Alexandre Lorphelin — contribution to complete;
 - Mathias — contribution to complete;
 - Arman — contribution to complete;
 - Emma — contribution to complete;
 - Fakhar — contribution to complete;
 - Nour — contribution to complete;
-- Sfaxi — contribution to complete.
+- Ilyess — contribution to complete.
 
 No phone number, API key, password or private account information belongs in
 this public repository.
