@@ -34,7 +34,10 @@ this public repository.
 ## Reproduce the local evidence
 
 Python 3.10 or later is required. The reference builder only uses the standard
-library.
+library. First copy `boutique.sqlite`, `product.csv`, `customers.csv` and
+`orders.csv` from the official student kit into `data/`; these distributed
+data files deliberately remain outside the public repository. Their expected
+hashes are recorded in `data/manifest.json`.
 
 ```powershell
 python verify-data.py

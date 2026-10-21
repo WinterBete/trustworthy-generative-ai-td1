@@ -1,0 +1,126 @@
+{
+  "checks": [
+    {
+      "case_id": "C01",
+      "sqlite_revenue_cents": 792800,
+      "csv_python_revenue_cents": 792800,
+      "ok": true
+    },
+    {
+      "case_id": "C02",
+      "sqlite_revenue_cents": 590320,
+      "csv_python_revenue_cents": 590320,
+      "ok": true
+    },
+    {
+      "case_id": "C03",
+      "sqlite_revenue_cents": 936350,
+      "csv_python_revenue_cents": 936350,
+      "ok": true
+    },
+    {
+      "case_id": "C04",
+      "sqlite_revenue_cents": 2826250,
+      "csv_python_revenue_cents": 2826250,
+      "ok": true
+    },
+    {
+      "case_id": "C05",
+      "sqlite_revenue_cents": 38480,
+      "csv_python_revenue_cents": 38480,
+      "ok": true
+    },
+    {
+      "case_id": "C06",
+      "sqlite_revenue_cents": 0,
+      "csv_python_revenue_cents": 0,
+      "ok": true
+    },
+    {
+      "case_id": "C07",
+      "sqlite_revenue_cents": 13970,
+      "csv_python_revenue_cents": 13970,
+      "ok": true
+    },
+    {
+      "case_id": "C08",
+      "sqlite_revenue_cents": 605580,
+      "csv_python_revenue_cents": 605580,
+      "ok": true
+    },
+    {
+      "case_id": "C09",
+      "sqlite_revenue_cents": 487980,
+      "csv_python_revenue_cents": 487980,
+      "ok": true
+    },
+    {
+      "case_id": "C10",
+      "sqlite_revenue_cents": 558980,
+      "csv_python_revenue_cents": 558980,
+      "ok": true
+    },
+    {
+      "case_id": "C11",
+      "sqlite_revenue_cents": 446690,
+      "csv_python_revenue_cents": 446690,
+      "ok": true
+    },
+    {
+      "case_id": "C12",
+      "sqlite_revenue_cents": 1666490,
+      "csv_python_revenue_cents": 1666490,
+      "ok": true
+    },
+    {
+      "case_id": "C13",
+      "sqlite_revenue_cents": 107740,
+      "csv_python_revenue_cents": 107740,
+      "ok": true
+    },
+    {
+      "case_id": "C14",
+      "sqlite_revenue_cents": 0,
+      "csv_python_revenue_cents": 0,
+      "ok": true
+    },
+    {
+      "case_id": "C15",
+      "sqlite_revenue_cents": 168680,
+      "csv_python_revenue_cents": 168680,
+      "ok": true
+    },
+    {
+      "case_id": "C16",
+      "sqlite_revenue_cents": 376740,
+      "csv_python_revenue_cents": 376740,
+      "ok": true
+    },
+    {
+      "case_id": "C17",
+      "sqlite_revenue_cents": 258180,
+      "csv_python_revenue_cents": 258180,
+      "ok": true
+    },
+    {
+      "case_id": "C18",
+      "sqlite_revenue_cents": 62480,
+      "csv_python_revenue_cents": 62480,
+      "ok": true
+    },
+    {
+      "case_id": "C19",
+      "sqlite_revenue_cents": 1990,
+      "csv_python_revenue_cents": 1990,
+      "ok": true
+    },
+    {
+      "case_id": "C20",
+      "sqlite_revenue_cents": 1106090,
+      "csv_python_revenue_cents": 1106090,
+      "ok": true
+    }
+  ],
+  "ok": true
+}
+
