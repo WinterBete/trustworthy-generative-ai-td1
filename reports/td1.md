@@ -4,8 +4,8 @@ Status: **work in progress**. Pack: `2026-10-18-students-1`.
 
 ## Subgroup
 
-Seven members: WinterBete (full name to complete), Mathias, Arman, Emma,
-Fakhar, Nour and Sfaxi. The actual contribution of each member must be filled
+Seven members: Alexandre Lorphelin, Mathias, Arman, Emma, Fakhar, Nour and
+Ilyess. The actual contribution of each member must be filled
 in after the session; no contribution is inferred from group membership.
 
 ## Work completed
@@ -22,7 +22,8 @@ in after the session; no contribution is inferred from group membership.
   human cross-check.
 - Show the twenty references to the instructor and correct any value identified
   as different from the answer key before running the affected model cells.
-- Run the five allocated 20-question batches and retain every raw attempt.
+- Query the five already-trained models on the allocated 20-question batches
+  and retain every raw attempt. No model is trained or fine-tuned in this TD.
 - Complete the comparison and five-model summary from the measured traces.
 - Record observed failures, their evidence and the final member contributions.
 
